@@ -1,0 +1,107 @@
+html {
+	border-radius: 50px;
+	margin-left: 400px;
+    margin-right: 350px;
+}
+
+body {
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 3px;
+    border-style: solid;
+    border-image: initial;
+    border-radius: 40px;
+    font-family: Bookman Old Style;
+}
+
+div {
+    border-radius: 40px;
+}
+
+h1 {
+    display: block;
+    font-size: 1em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+    height: 180px;
+    border-radius: 50px;
+}
+
+.header {
+	background-color: #f1f1f1;
+	padding: 10px;
+	text-align: center;
+	font-family: Courier New;
+	color: #324;
+	border-style: solid;
+	margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #f1f1f1;
+	font-family: Courier New;
+	color: #324;
+	border-style: solid;
+	margin-bottom: 10px;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f1f1f1;
+    text-align: center;
+    color: #324;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+table[Attributes Style] {
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    border-radius: 40px
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    border-radius: 40px;
+    font-family: Courier New;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    border-radius: 40px;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+video {
+	width: auto;
+	height: 280px;
+}
